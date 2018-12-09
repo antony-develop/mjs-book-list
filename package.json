@@ -1,0 +1,14 @@
+{
+  "name": "booklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "skeleton-css": "^2.0.4"
+  }
+}
